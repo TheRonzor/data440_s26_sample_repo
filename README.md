@@ -1,6 +1,6 @@
 # Sample Project Structure
 
-The intended audience is students of mine taking DATA 440 in Fall 2025.
+The intended audience is students of mine taking DATA 440 in Spring 2026.
 
 Use this repository as a general guideline for how to structure you own repositories.
 
